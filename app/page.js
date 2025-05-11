@@ -10,7 +10,7 @@ export default function Home() {
       sx={{ 
         minHeight: "100vh", 
         padding: "0", 
-        backgroundImage: "url('https://i.pinimg.com/originals/dc/ad/1e/dcad1e0ae9c943378f90c579a82d0040.jpg')", 
+        backgroundImage: "url('/flash.jpg')",
         backgroundSize: "cover", 
         backgroundPosition: "center",
         backgroundAttachment: "fixed",
